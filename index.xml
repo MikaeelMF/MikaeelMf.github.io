@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mikaeel Mayeli Blog</title>
-    <link>mikaeelmayeli.ir/</link>
+    <link>https://MikaeelMF.github.io/</link>
     <description>Recent content on Mikaeel Mayeli Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="mikaeelmayeli.ir/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://MikaeelMF.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>mikaeelmayeli.ir/about/</link>
+      <link>https://MikaeelMF.github.io/about/</link>
       <pubDate>Fri, 01 Oct 2021 02:00:44 +0330</pubDate>
       
-      <guid>mikaeelmayeli.ir/about/</guid>
+      <guid>https://MikaeelMF.github.io/about/</guid>
       <description>Hi, My name is mikaeel mayeli and I wish you well!</description>
     </item>
     
