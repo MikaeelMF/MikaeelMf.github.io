@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pubs on Mikaeel Mayeli Blog</title>
+    <title>Pubs on Mikaeel Mayeli</title>
     <link>https://MikaeelMF.github.io/pub/</link>
-    <description>Recent content in Pubs on Mikaeel Mayeli Blog</description>
+    <description>Recent content in Pubs on Mikaeel Mayeli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 02 Oct 2021 20:07:02 +0330</lastBuildDate><atom:link href="https://MikaeelMF.github.io/pub/index.xml" rel="self" type="application/rss+xml" />
